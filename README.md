@@ -59,7 +59,7 @@
 
 ```bash
 # 1. 克隆仓库
-git clone <repo-url> kicad-pcb-agent-skills
+git clone https://github.com/yymqd/kicad-pcb-agent-skills.git
 # 2. 复制到 Hermes skills 目录
 mkdir -p ~/.hermes/skills/hardware
 cp -r kicad-pcb-agent-skills/skills/hardware/* ~/.hermes/skills/hardware/
