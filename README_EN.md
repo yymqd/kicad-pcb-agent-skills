@@ -2,6 +2,12 @@
 
 **English | [中文](README.md)**
 
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Platform: Windows/WSL](https://img.shields.io/badge/Platform-Windows%2FWSL-blue.svg)
+![KiCad 10.0+](https://img.shields.io/badge/KiCad-10.0%2B-orange.svg)
+![AI Agent: Hermes](https://img.shields.io/badge/AI%20Agent-Hermes-purple.svg)
+![GitHub repo](https://img.shields.io/badge/Repo-GitHub%20%7C%20cnb.cool-lightgrey.svg)
+
 A collection of **KiCad PCB design automation skills for AI Agents (Hermes Agent)** — turning natural-language requirements into production-ready PCB files.
 
 > This repository is the open-source collaboration edition of an "AI-driven PCB design workflow". Core experience comes from real projects (Ø14mm double-sided laser driver, etc.), hardened through failures and fixes, and packaged as **Hermes Agent Skills**.
