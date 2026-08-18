@@ -1,5 +1,7 @@
 # KiCad PCB Agent Skills
 
+**[English](README_EN.md) | 中文**
+
 一套面向 **AI Agent（Hermes Agent）** 的 KiCad PCB 设计自动化技能集，把自然语言需求转化为可生产的 PCB 文件。
 
 > 本仓库是「AI 驱动 PCB 设计工作流」的开源协作版。核心经验来自真实项目（Ø14mm 双面板激光驱动等）的踩坑与修复，通过 **Hermes Agent Skill** 格式固化。
