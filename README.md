@@ -55,7 +55,6 @@
 | `pcb-autorouting` | Freerouting 自动布线（DSN→Freerouting→SES） |
 | `pcb-silk-text-audit` | 丝印文字板内验证（包围盒 r_max，非中心点） |
 | `hermes-kicad-workflow` | 技能打包/迁移到新机器 |
-
 ## 🚀 安装
 
 ```bash
